@@ -1,0 +1,6 @@
+name: alicloud-auto-cert
+runtime:
+  name: python
+  options:
+    virtualenv: venv
+description: AliCloud Python Pulumi program of alicloud-auto-cert
